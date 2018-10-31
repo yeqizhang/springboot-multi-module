@@ -1,6 +1,7 @@
 ##ignore this file##
 /data/logs/
 /target/
+/classes/
 
 #eclipse files
 .classpath

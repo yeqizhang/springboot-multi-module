@@ -1,7 +1,8 @@
 ##ignore this file##
-/data/logs/
-/target/
-/classes/
+data/logs/
+# 注意使用target/ （如果开头有/，则表示匹配根目录。比如，/a表示根目录下的a。）
+target/
+classes/
 
 #eclipse files
 .classpath
